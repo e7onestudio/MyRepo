@@ -1,7 +1,10 @@
 # 【MyRepo】
 My First Repository
+http://e7oneStudio.com
 
 <img src="IMGobj_FuLuMonkey_20160215_c1-900.jpg" width="800">
+
+---
 
 # 【GitHub】
 
